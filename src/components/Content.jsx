@@ -210,9 +210,9 @@ export default function Content() {
             ))}
           </tbody>
         </table>
-        <a href="#" className="pt-[15px] font-bold text-[#1E67AF]">
+        {/* <a href="#" className="pt-[15px] font-bold text-[#1E67AF]">
           See all approvals here
-        </a>
+        </a> */}
       </section>
     </div>
   );
