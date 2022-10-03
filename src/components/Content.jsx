@@ -48,14 +48,14 @@ export default function Content() {
       <section id="recent-approvals">
         <div className="flex mt-[44px] justify-between items-center">
           <div>
-            <h4 className="font-bold text-[20px]">Recent Approvals</h4>
+            <h4 className="font-bold text-[20px]">Cryptocurrencies</h4>
             <p className="font-normal">
-              You can find the recent on-going approvals here
+              The top 10 cryptocurrencies market cap
             </p>
           </div>
-          <button className="h-8 text-white rounded-[53px] bg-[#1E67AF] px-[25px] pt-1.5 pb-7 align-middle">
+          {/* <button className="h-8 text-white rounded-[53px] bg-[#1E67AF] px-[25px] pt-1.5 pb-7 align-middle">
             + Create new approval
-          </button>
+          </button> */}
         </div>
         {/* <table className="mt-6 bg-[#F5F6FA] w-full border-separate border-slate-400 border-spacing-y-[13px]">
           <thead>
